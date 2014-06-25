@@ -1,0 +1,12 @@
+{
+  "name": "shell-source",
+  "version": "0.0.1",
+  "description": "Add or comment a source command within a shell file.",
+  "main": "index.js",
+  "repository": "git://github.com/jeromedecoster/shell-source",
+  "dependencies": {
+    "tildify": "~0.2",
+    "untildify": "~0.1"
+  },
+  "readme": "Add or comment a source command within a shell file."
+}
